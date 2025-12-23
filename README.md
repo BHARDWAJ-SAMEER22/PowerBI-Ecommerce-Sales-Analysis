@@ -27,5 +27,3 @@ This Power BI dashboard analyzes e-commerce sales performance to track revenue, 
 - Shows monthly sales growth patterns
 - Helps monitor profitability and order volume
 
-## 📷 Dashboard Preview
-![Dashboard](dashboard_preview.png)
